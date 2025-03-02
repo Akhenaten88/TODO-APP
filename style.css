@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
   font-family: Arial, sans-serif;
   text-align: center;
@@ -26,3 +27,13 @@ li {
   justify-content: space-between;
   align-items: center;
 }
+=======
+/* Elements Selector */
+
+body  { 
+  color: blue;
+  font-size: 20px;
+
+}
+
+>>>>>>> db9191e (Your commit message)
